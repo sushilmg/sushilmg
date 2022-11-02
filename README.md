@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushilmg
-- 👀 I’m interested in ...learning Java, CSS, HTML,Javascript
-- 🌱 I’m currently learning ...Salesforce Apex programming
+- 👀 I’m interested in ...Coding
+- 🌱 I’m currently learning ...Lets C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...inmail
 <!---
